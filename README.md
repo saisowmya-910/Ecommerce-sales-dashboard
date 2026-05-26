@@ -21,3 +21,6 @@ Developed an interactive Power BI dashboard to analyze e-commerce sales performa
 - DAX
 - Dashboard Design
 - Business Intelligence Reporting
+## Dashboard Preview
+
+![E-Commerce Dashboard](ecommerce.ss.png)
